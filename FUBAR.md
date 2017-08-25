@@ -26,4 +26,8 @@ This is Alice's newest feature to the page. This will hopefully create a conflic
 
 Ted adds another feature during round two. This feature is the cool ski game that we can't make for project week. Sad face.
 
+
+This is yet another addition to the project by Ted. I like to create merge conflicts because I'm a bad person.
+
 Carol is procuring a merge conflict for the team. She secretly wants to create a problem because she doesn't have enough drama in her life. 
+
