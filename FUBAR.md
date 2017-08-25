@@ -32,5 +32,6 @@ Bob is adding a feature on a new branch without doing a git pull origin master b
 
 This is yet another addition to the project by Ted. I like to create merge conflicts because I'm a bad person.
 
-Carol is procuring a merge conflict for the team. She secretly wants to create a problem because she doesn't have enough drama in her life. 
+Carol is procuring a merge conflict for the team. She secretly wants to create a problem because she doesn't have enough drama in her life.
 
+Here is more fake code, THIS CODE IS IMPORTANT DO NOT DELETE, IT WILL BREAK EVERYTHING.
