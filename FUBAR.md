@@ -35,3 +35,5 @@ This is yet another addition to the project by Ted. I like to create merge confl
 Carol is procuring a merge conflict for the team. She secretly wants to create a problem because she doesn't have enough drama in her life.
 
 Here is more fake code, THIS CODE IS IMPORTANT DO NOT DELETE, IT WILL BREAK EVERYTHING.
+
+This is Alice's laptop we are currently working on very important project.
