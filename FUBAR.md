@@ -42,4 +42,7 @@ This is Alice's laptop we are currently working on very important project.
 
 Ted and Carol's newest addition to the page. It is also important, if you delete it, it will further break your code.
 
-It's Bob and Carol round 4's opportunity to add features to this document. 
+
+This is teds final feature of the day because ted's started to tired
+
+It's Bob and Carol round 4's opportunity to add features to this document.
