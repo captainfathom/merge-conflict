@@ -50,3 +50,5 @@ It's Bob and Carol round 4's opportunity to add features to this document.
 
 
 This is one last totally awesome feature that Alice and Ted are adding.  This feature is top secret so we can't tell anyone about it.
+
+Bob is adding a feature on a new branch without doing a git pull origin master beforehand. Bob will rue the day he failed to G-P-O-M.
