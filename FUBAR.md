@@ -21,3 +21,4 @@ I added aditional feature. I am Bob this is my laptop.
 
 Carol(Will) and Bob(Ozge) are working on a new feature on Carol's laptop at 1:46pm.  I <3 features.
 
+Ted adds another feature during round two. This feature is the cool ski game that we can't make for project week. Sad face. 
