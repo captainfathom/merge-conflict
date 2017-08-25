@@ -21,3 +21,4 @@ I added aditional feature. I am Bob this is my laptop.
 
 Carol(Will) and Bob(Ozge) are working on a new feature on Carol's laptop at 1:46pm.  I <3 features.
 
+This is Alice's newest feature to the page. This will hopefully create a conflict to fix here in a few minutes. 
