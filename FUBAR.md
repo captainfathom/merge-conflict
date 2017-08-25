@@ -14,3 +14,7 @@ Alice is telling Ted to do more stuff 1:17pm
 Alice is creating a new feature in the master branch after just resolving a merge conflict created by her careless teammates, Bob and Ted. In this feature, Alice is naively writing with all the confidence in the world thinking that she is making all the cool things in her code.
 
 I am Carol and I started the new feature, but it's not done yet.
+
+<!-- Round 2 -->
+
+Ted makes all the changes. Hi ho, hi ho, it's off to work I go. BLAM.
