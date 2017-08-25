@@ -47,3 +47,5 @@ Ted and Carol's newest addition to the page. It is also important, if you delete
 This is teds final feature of the day because ted's started to tired
 
 It's Bob and Carol round 4's opportunity to add features to this document.
+
+Bob is adding a feature on a new branch without doing a git pull origin master beforehand. Bob will rue the day he failed to G-P-O-M.
