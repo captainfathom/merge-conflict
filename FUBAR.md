@@ -25,3 +25,5 @@ Carol(Will) and Bob(Ozge) are working on a new feature on Carol's laptop at 1:46
 This is Alice's newest feature to the page. This will hopefully create a conflict to fix here in a few minutes.
 
 Ted adds another feature during round two. This feature is the cool ski game that we can't make for project week. Sad face.
+
+This is yet another addition to the project by Ted. I like to create merge conflicts because I'm a bad person.
