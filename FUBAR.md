@@ -37,3 +37,7 @@ Carol is procuring a merge conflict for the team. She secretly wants to create a
 Here is more fake code, THIS CODE IS IMPORTANT DO NOT DELETE, IT WILL BREAK EVERYTHING.
 
 This is Alice's laptop we are currently working on very important project.
+
+
+
+Ted and Carol's newest addition to the page. It is also important, if you delete it, it will further break your code.
