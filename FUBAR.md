@@ -47,3 +47,6 @@ Ted and Carol's newest addition to the page. It is also important, if you delete
 This is teds final feature of the day because ted's started to tired
 
 It's Bob and Carol round 4's opportunity to add features to this document.
+
+
+This is one last totally awesome feature that Alice and Ted are adding.  This feature is top secret so we can't tell anyone about it.
