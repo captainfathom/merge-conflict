@@ -10,3 +10,6 @@ Alice is telling Ted to do more stuff 1:17pm
 ...and after the merge and resulting conflicts, Ted and Alice persist in adding a new feature.
 
 //first iteration of code exchange//
+
+ I am Carol and I started the new feature, but it's not done yet.
+ 
