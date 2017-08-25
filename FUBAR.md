@@ -15,5 +15,8 @@ Alice is creating a new feature in the master branch after just resolving a merg
 
 I am Carol and I started the new feature, but it's not done yet.
 
+<!-- Round 2 -->
+
+Ted makes all the changes. Hi ho, hi ho, it's off to work I go. BLAM.
 
 Carol(Will) and Bob(Ozge) are working on a new feature on Carol's laptop at 1:46pm.  I <3 features.
