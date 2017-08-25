@@ -10,3 +10,5 @@ Alice is telling Ted to do more stuff 1:17pm
 ...and after the merge and resulting conflicts, Ted and Alice persist in adding a new feature.
 
 //first iteration of code exchange//
+
+Alice is creating a new feature in the master branch after just resolving a merge conflict created by her careless teammates, Bob and Ted. In this feature, Alice is naively writing with all the confidence in the world thinking that she is making all the cool things in her code.
