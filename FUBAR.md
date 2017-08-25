@@ -25,3 +25,5 @@ Carol(Will) and Bob(Ozge) are working on a new feature on Carol's laptop at 1:46
 This is Alice's newest feature to the page. This will hopefully create a conflict to fix here in a few minutes.
 
 Ted adds another feature during round two. This feature is the cool ski game that we can't make for project week. Sad face.
+
+Carol is procuring a merge conflict for the team. She secretly wants to create a problem because she doesn't have enough drama in her life. 
